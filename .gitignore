@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+bitcoin_price_history.json
+.DS_Store
